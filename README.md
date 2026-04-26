@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshita</h1>
-<h3 align="center">🚀 Software Developer | AI/ML Enthusiast | India 🇮🇳</h3>
+<h3 align="center">🚀 Software Developer | Data Science Enthusiast | India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lakshita4816&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -19,10 +19,10 @@
 <tr>
 <td width="50%" align="left">
 
-🔹 Passionate about **Software Development & AI/ML**  
-🔹 Currently learning **Full Stack + Data Science**  
+🔹 Passionate about **Software Development**  
+🔹 Currently learning **Data Science**  
 🔹 Interested in **Real-world problem solving**  
-🔹 Strong focus on **clean UI + efficient logic**  
+🔹 Focused on **clean UI & efficient logic**  
 🔹 📍 India  
 🔹 📧 lakshita4816@gmail.com  
 
@@ -68,11 +68,17 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshita4816&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-ff6f61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Science-green?style=for-the-badge" />
 </p>
 
@@ -88,11 +94,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lakshita4816/lakshita4816/output/snake.svg" />
-</div>
